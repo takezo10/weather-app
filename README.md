@@ -8,6 +8,4 @@ Utilisation de Javascript, HTML et CSS
 
 ## API
 
-Utilisation des API OpenWeatherMap et UnSplash#� �w�e�a�t�h�e�r�-�a�p�p�
-�
-�
+Utilisation des API OpenWeatherMap et UnSplash
